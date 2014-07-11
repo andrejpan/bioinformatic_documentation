@@ -1,7 +1,7 @@
 Splitting multi fasta file
 ==========================
 
-For example if you have [amilaze_multi.fasta](amilaze_multi.fasta) and you want to have separate *.fasta files.
+For example if you have [amilaze_multi.fasta](amilaze_multi.fasta) and you want to have separate [*.fasta](/amilaze_aa/) files.
 
 Use:
 $ python split.py amilaze_multi.fasta
